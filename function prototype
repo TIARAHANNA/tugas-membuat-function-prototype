@@ -14,4 +14,4 @@ void prototypeFunction (int angka1, int angka2)
 	cout << "Hasil Pengurangan = " << (angka1 - angka2) << endl;
 	cout << "Hasil Perkalian = " << (angka1 * angka2) << endl;
 	cout << "Hasil Pembagian = " << (angka1 / angka2) << endl;
-}
+}fuck my sister bebeh
